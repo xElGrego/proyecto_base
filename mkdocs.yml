@@ -1,0 +1,12 @@
+site_name: Proyecto Base
+
+theme:
+  name: material
+plugins:
+  - search
+nav:
+  - Introducción: "index.md"
+  - Config: "pages/config.md"
+  - Core: "pages/core.md"
+  - Modules: "pages/modules.md"
+  - Shared: "pages/shared.md"
